@@ -1,0 +1,96 @@
+h1 {
+    color: #050577;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.overlay {
+    max-width: 800px;
+    margin-left: 250px;
+}
+
+.temperature {
+    font-size: 50px;
+    margin-left: 10px;
+    color: #373333;
+}
+
+.units {
+    font-size: 20px;
+    position: fixed;
+}
+
+.col {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.name {
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.card-text {
+    text-align: center;
+    margin: 50px auto;
+}
+
+.sunshine {
+    color: yellow;
+    font-size: 50px;
+    margin-right: 10px;
+}
+
+.sun {
+    color: yellow;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.sunny {
+    color: yellow;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.rainycloud {
+    font-size: 30px;
+    color: grey;
+    padding-top: 10px;
+}
+
+.cloud {
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.showers {
+    color: grey;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.card-text .text {
+    color: navy;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.col {
+    text-align: center;
+}
+
+.conditions {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
